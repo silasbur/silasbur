@@ -13,4 +13,4 @@ Ooma Office is a cloud-based phone system that consists of conferencing, phone, 
 
 Nov 2018 - Software Engineer - [Course Report](https://www.coursereport.com/)
 
-Coure Report is a site for finding and evaluating coding bootcamps. I helped build an MVP mobile app that allows users to read blog articles view schools, and directly contact the staff. The app features auto-pagination while scrolling, fuzzy search, and sort by location.
+Coure Report is a site for finding and evaluating coding bootcamps. As an intern, I helped build an MVP mobile app that allows users to read blog articles view schools, and directly contact the staff. The app features auto-pagination while scrolling, fuzzy search, and sort by location.
